@@ -2,7 +2,7 @@
 ### A Flappy Bird Remake made using Unity and C# Scripting
 
 ### Gameplay
-![](https://github.com/BigTimmyTom/Derpy-Bird/blob/main/Gameplay.gif)
+![Gameplay Loop of Derpy Bird](https://github.com/BigTimmyTom/Derpy-Bird/blob/main/Gameplay.gif)
 
 ### How to Play
 - **USE SPACEBAR** to make Derpy Bird fly upwards

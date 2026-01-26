@@ -7,21 +7,18 @@ public class PipeMiddleScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        //Get LogicScript to access addScore method
         logicScript = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicScript>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+    //Method to update score when bird successfully passes through pipe
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        
-        if (collision.gameObject.layer == 3) // Bird Layer
+        //Check if Bird has passed through pipe
+        if (collision.gameObject.layer == 3) // 3 = Bird Layer
         {
-            logicScript.addScore();
+            logicScript.addScore(); //Update Score
         }
     }
 }
+

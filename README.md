@@ -1,8 +1,8 @@
-# Fluttering-Bird
+# Flutter-Bird
 ### A Flappy Bird Remake made using Unity and C# Scripting
 
 ### Gameplay
-![Gameplay Loop of Fluttering Bird](https://github.com/BigTimmyTom/Fluttering-Bird/blob/main/Gameplay.gif)
+![Gameplay Loop of Flutter Bird](https://github.com/thomasjwhitcomb/Flutter-Bird/blob/main/Gameplay.gif)
 
 ### How to Play
 - **USE SPACEBAR** to make Flutter Bird fly upwards

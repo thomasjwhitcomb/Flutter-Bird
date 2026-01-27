@@ -1,11 +1,11 @@
-# Derpy-Bird
+# Fluttering-Bird
 ### A Flappy Bird Remake made using Unity and C# Scripting
 
 ### Gameplay
-![Gameplay Loop of Derpy Bird](https://github.com/BigTimmyTom/Derpy-Bird/blob/main/Gameplay.gif)
+![Gameplay Loop of Fluttering Bird](https://github.com/BigTimmyTom/Fluttering-Bird/blob/main/Gameplay.gif)
 
 ### How to Play
-- **USE SPACEBAR** to make Derpy Bird fly upwards
+- **USE SPACEBAR** to make Flutter Bird fly upwards
 - **Avoid** the incoming poles
 - Flying **too high** or **too low** might be *your last flap...*
 

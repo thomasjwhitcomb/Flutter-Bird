@@ -1,15 +1,15 @@
 # Flutter-Bird
-### A Flappy Bird Remake made using Unity and C# Scripting
+#### A Flappy Bird Remake made using Unity and C# Scripting
 
-### Gameplay
+## Gameplay
 ![Gameplay Loop of Flutter Bird](https://github.com/thomasjwhitcomb/Flutter-Bird/blob/main/Gameplay.gif)
 
-### How to Play
+## How to Play
 - **USE SPACEBAR** to make Flutter Bird fly upwards
 - **Avoid** the incoming poles
 - Flying **too high** or **too low** might be *your last flap...*
 
-### Features
+## Features
 - High Score Tracker
 - Particle System to simulate Clouds
 - Randomized Pipe Spawner Script
@@ -20,3 +20,8 @@
   - Restart Button to Fly Again
   - Menu Button to Return to Menu
 - Randomized Taunts after each Game
+
+## Installation
+1. **Clone the repository**:
+   ```sh
+   https://github.com/thomasjwhitcomb/Flutter-Bird.git

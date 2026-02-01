@@ -25,3 +25,17 @@
 1. **Clone the repository**:
    ```sh
    https://github.com/thomasjwhitcomb/Flutter-Bird.git
+
+## How to Set-Up in Unity Editor
+1. Open **project** folder as a **new Unity Project**
+2. If **Menu and Game Unity Scenes** do not open upon the Editor opening,
+    1. Go to the **Project window** in Unity Editor
+    2. Open the **Assets folder** > Open the **Scenes folder**
+    3. Drag the *Menu Scene* in **FIRST**, then the *Game Scene*
+       - Make sure that the Menu scene is on the top of the hierarchy
+       - You can remove any other unnecessary scene files
+3. Open **File > Build Profiles** in the Unity Editor (Top-Left)
+4. Open **Scene List** and add the **Menu and Game Scenes** if not present
+    - Select the Menu Scene as Scene 0
+    - Select the Game Scene as Scene 1
+5. **You're all set!**
